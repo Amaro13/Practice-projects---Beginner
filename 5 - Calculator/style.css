@@ -1,0 +1,43 @@
+    
+    html {
+        box-sizing: border-box;
+      }
+      body {
+        text-align:center;
+        color: #333;
+        line-height: 1.5;
+        height: 80vh;
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        font-size:200%;
+        size:80%;
+      }
+    #tabela{
+        height:80%;
+        width: 50%;
+    }
+    input[type="button"]
+    {
+    border-radius: 10px;
+    text-align: center;
+    background-color:blue;
+    color: white;
+    border-color:black ;
+    width:100%;
+    height:100%;
+    font-size:200%;
+    }
+    input[type="text"]
+    {
+    border-radius: 10px;
+    text-align: Right;
+    background-color:black;
+    color: white;
+    border-color: white;
+    width:100%;
+    height:100%;
+    font-size:200%;
+    }
